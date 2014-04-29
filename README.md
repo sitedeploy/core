@@ -14,19 +14,18 @@ var folder = sm.createDescriptor('static/css');
 console.dir(folder)
 
 /*
-{
 
-'etag': '54675675456757',
-content: {
-'file1.css': '43564509809234',
-'file2.css': '43564509809234',
-'vendor': {
-  jquery: {
-    'jquery.js':'43564509809234'
-  }
- }
-}
-  
+{
+    "etag": 12,
+    "content": {
+        "vendor": {
+            "jquery": {
+                "jquery.js": "0d4c0e15"
+            }
+        },
+        "file1.css": "49d8d999",
+        "file2.css": "07ee315f"
+    }
 }
 */
  

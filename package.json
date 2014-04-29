@@ -37,6 +37,7 @@
   "keywords": [],
   "dependencies": {
     "q": "^1.0.1",
-    "q-io": "^1.11.0"
+    "q-io": "^1.11.0",
+    "buffer-crc32": "^0.2.1"
   }
 }
